@@ -34,7 +34,7 @@ ONLY FOR Hacking!
 
 ==========================================
 
-00. This Tools By  LEBANON CYBER☬
+00. This Tools By  LEBANON CYBER
 
 ------------------------------------------
 
