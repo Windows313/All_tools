@@ -15,7 +15,7 @@ W = "\033[0;1m"     # White
 R = "\033[31m"    # Red
 C = "\033[36;1m"    # Cyan
 
-def menu():
+menu():
     runntxt(GL+"    SHARE THIS TOOLS ^_^")
     runntxt(WW+"   THE TEAM  ")
     runntxt(WW+"WINDOWS_313")
@@ -72,7 +72,7 @@ Not for supporting but for information
 loop = True
 
 while loop:
-
+  menu()
     what = input("#: ")
     if what == "00":
         print("================================")
