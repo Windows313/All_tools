@@ -44,7 +44,7 @@ ONLY FOR Hacking!
 ----
 ==========================================
 00. This Tools By  LEBANON CYBER☬
-------------------------------------------
+-------------LEBANON---------11111--------
 1. Check Yahoo 
 2. Check Hotmail
 3. Install SQLMap
@@ -64,7 +64,7 @@ ONLY FOR Hacking!
 17. Install Hash-Buster
 18. Install D-TECT
 19. Install routersploit
-------------------------------------------
+-------------CYBER----------------313-----
 99. Exit
 ==========================================
 """)
