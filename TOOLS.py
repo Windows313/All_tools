@@ -44,7 +44,7 @@ ONLY FOR Hacking!
 ----
 ==========================================
 00. This Tools By  LEBANON CYBER☬
--------------LEBANON---------11111--------
+
 1. Check Yahoo 
 2. Check Hotmail
 3. Install SQLMap
