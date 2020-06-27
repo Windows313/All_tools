@@ -43,8 +43,8 @@ Version : 2.0
 ONLY FOR Hacking!
 ----
 ==========================================
-00. This Tools By  LEBANON CYBER☬
-
+00. This Tools By  LEBANON CYBER
+Not for supporting but for information 
 1. Check Yahoo 
 2. Check Hotmail
 3. Install SQLMap
