@@ -16,7 +16,7 @@ R = "\033[31m"    # Red
 C = "\033[36;1m"    # Cyan
 
 def menu():
-runntxt(GL+"    SHARE THIS TOOLS ^_^")
+    runntxt(GL+"    SHARE THIS TOOLS ^_^")
     runntxt(WW+"   THE TEAM  ")
     runntxt(WW+"WINDOWS_313")
     runntxt(GL+"JAYFOX")
