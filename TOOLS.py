@@ -72,7 +72,7 @@ Not for supporting but for information
 loop = True
 
 while loop:
-  menu()
+    menu()
     what = input("#: ")
     if what == "00":
         print("================================")
